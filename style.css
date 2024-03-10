@@ -1,0 +1,11 @@
+.op-1{
+    border: 2px solid gray;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    cursor: pointer;
+}
+
+img:hover{
+    content: url('https://cdn-icons-png.flaticon.com/128/1828/1828911.png');
+}
